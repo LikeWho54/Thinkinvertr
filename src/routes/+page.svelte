@@ -171,6 +171,78 @@
   This component comes with some `rtl` classes. Please remove them if they are not needed in your project.
 -->
 
+<section class="py-10 bg-[#f1f1e6] sm:py-16 lg:py-24">
+    <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <div class="grid items-center grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 xl:grid-cols-6 sm:gap-x-12 gap-y-12">
+            <div class="lg:col-span-2">
+                <h2 class="text-3xl font-bold leading-tight text-gray-800 sm:text-4xl lg:text-5xl lg:leading-tight">
+                    1 team.<br />
+                    20+ Funds.<br />
+                    50.000+ VCs.<br />
+                </h2>
+                <p class="mt-6 text-base text-gray-600">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
+            </div>
+
+            <div class="lg:col-span-3 xl:col-span-4">
+                <div class="grid items-center max-w-4xl grid-cols-2 mx-auto lg:grid-cols-4 gap-x-10 gap-y-16">
+                    <div>
+                        <img class="object-contain w-full h-6 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-1.png" alt="" />
+                    </div>
+
+                    <div>
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-2.png" alt="" />
+                    </div>
+
+                    <div>
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-3.png" alt="" />
+                    </div>
+
+                    <div>
+                        <img class="object-contain w-full mx-auto h-7" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-4.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-5.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-6.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-7.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-8.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-9.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full mx-auto h-7" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-10.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-11.png" alt="" />
+                    </div>
+
+                    <div class="hidden lg:block">
+                        <img class="object-contain w-full h-8 mx-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/logos/3/logo-12.png" alt="" />
+                    </div>
+                </div>
+
+                <div class="flex items-center justify-start mt-10 space-x-3 lg:hidden">
+                    <div class="w-2.5 h-2.5 rounded-full bg-blue-600 block"></div>
+                    <div class="w-2.5 h-2.5 rounded-full bg-gray-300 block"></div>
+                    <div class="w-2.5 h-2.5 rounded-full bg-gray-300 block"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <section>
@@ -359,6 +431,65 @@
         </div>
     </div>
 </section>
+
+
+<section class="py-10 bg-gray-900 sm:py-16 lg:py-24">
+    <div class="max-w-5xl px-4 mx-auto sm:px-6 lg:px-8">
+        <div class="max-w-2xl mx-auto text-center">
+            <h2 class="text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl">Questions & Answers</h2>
+            <p class="max-w-xl mx-auto mt-4 text-base leading-relaxed text-gray-300">Explore the common questions and answers about investors</p>
+        </div>
+
+        <div class="grid grid-cols-1 mt-12 md:mt-20 md:grid-cols-2 gap-y-16 gap-x-20">
+            <div class="flex items-start">
+                <div class="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full">
+                    <span class="text-lg font-semibold text-white">?</span>
+                </div>
+                <div class="ml-4">
+                    <p class="text-xl font-semibold text-white">How to create an account?</p>
+                    <p class="mt-4 text-base text-gray-400">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                </div>
+            </div>
+
+            <div class="flex items-start">
+                <div class="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full">
+                    <span class="text-lg font-semibold text-white">?</span>
+                </div>
+                <div class="ml-4">
+                    <p class="text-xl font-semibold text-white">How can I make payment?</p>
+                    <p class="mt-4 text-base text-gray-400">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                </div>
+            </div>
+
+            <div class="flex items-start">
+                <div class="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full">
+                    <span class="text-lg font-semibold text-white">?</span>
+                </div>
+                <div class="ml-4">
+                    <p class="text-xl font-semibold text-white">Do you provide discounts?</p>
+                    <p class="mt-4 text-base text-gray-400">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                </div>
+            </div>
+
+            <div class="flex items-start">
+                <div class="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full">
+                    <span class="text-lg font-semibold text-white">?</span>
+                </div>
+                <div class="ml-4">
+                    <p class="text-xl font-semibold text-white">How do you provide support?</p>
+                    <p class="mt-4 text-base text-gray-400">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="flex items-center justify-center mt-12 md:mt-20">
+            <div class="px-8 py-4 text-center bg-gray-800 rounded-full">
+                <p class="text-gray-50">Didn’t find the answer you are looking for? <a href="#" title="" class="text-yellow-300 transition-all duration-200 hover:text-yellow-400 focus:text-yellow-400 hover:underline">Contact our support</a></p>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <footer class="bg-[#051C38]">
     <div
